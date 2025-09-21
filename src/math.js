@@ -19,4 +19,4 @@ function divisao(a, b) {
 
 module.exports = { soma, subtracao, multiplicacao, divisao }
 
-//test
+//testgit statusgit
